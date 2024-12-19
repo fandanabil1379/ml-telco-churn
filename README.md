@@ -7,13 +7,13 @@ Welcome to the **Telco Customer Churn Prediction** repository! This project harn
 Customer churn poses significant challenges for telecommunications companies, affecting both revenue streams and operational efficiency. This project develops a comprehensive machine learning pipeline designed to:
 
 - **Understand customer behavior patterns**
-Explore and visualize data to uncover trends and insights related to customer actions and preferences.
+    Explore and visualize data to uncover trends and insights related to customer actions and preferences.
 - **Identify key drivers of churn**
-Pinpoint the critical factors contributing to customer attrition, such as billing issues, service quality, or contract terms.
+    Pinpoint the critical factors contributing to customer attrition, such as billing issues, service quality, or contract terms.
 - **Predict at-risk customers**
-Employ machine learning models to accurately predict customers who are likely to churn, enabling timely interventions.
+    Employ machine learning models to accurately predict customers who are likely to churn, enabling timely interventions.
 - **Deliver actionable insights**
-Provide clear, data-backed recommendations to reduce churn rates and improve customer satisfaction.
+    Provide clear, data-backed recommendations to reduce churn rates and improve customer satisfaction.
 
 This solution integrates advanced feature engineering, model tuning, and robust evaluation metrics to ensure a scalable, interpretable, and reliable prediction framework.
 
