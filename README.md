@@ -1,6 +1,6 @@
 Welcome to the **Telco Customer Churn Prediction** repository! This project harnesses the power of data science and machine learning to predict customer churn in the telecommunications industry. By proactively identifying at-risk customers, businesses can implement data-driven strategies to enhance retention and minimize churn, ultimately driving growth and profitability.
 
-## 📌 Project Overview
+## Project Overview 📌
 
 Customer churn poses significant challenges for telecommunications companies, affecting both revenue streams and operational efficiency. This project develops a comprehensive machine learning pipeline designed to:
 
